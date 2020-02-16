@@ -8,12 +8,13 @@ The motivation behind this was the posibility of having a computer keep in touch
 Main limitations we faced were the issues in training the dataset in a very short amount of time and being able to create a different customized message for different people in your contact list. Because obviously you will chat differently with differnt people.
 
 ## tech/api used
-* To train the data:
+* Training the data:
     * Python
     * Anaconda
-    * Tensorflow
+    * Tensorflow<br/><br/>
     
-* Windows App:
+    
+* Building the windows app:
     * Javascript
     * Node.js
     * .json (to store the replies)
